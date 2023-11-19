@@ -1,4 +1,4 @@
-# README for OpenAI Chat GUI Application
+# OpenAI Chat GUI Application #
 
 ## Overview
 
@@ -66,7 +66,7 @@ This Python application provides a graphical user interface (GUI) for interactin
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
 ## Acknowledgments
 
