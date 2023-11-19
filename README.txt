@@ -54,7 +54,7 @@ This Python application, `API_GUI_Chat.py`, provides a graphical user interface 
 
 Run the following command in your terminal or command prompt:
 ```bash
-pip install openai gtts pygame python-tk speechrecognition
+pip install openai gtts pygame speechrecognition
 ```
 
 ## Usage
