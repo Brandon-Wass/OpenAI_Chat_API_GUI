@@ -26,13 +26,13 @@ This Python application, `API_GUI_Chat.py`, provides a graphical user interface 
 
    **Clone the repository**:
    - Open Command Prompt and navigate to the desired directory.
-   - Run `git clone https://github.com/B-Boone/OpenAI_Chat_API.git`
+   - Run `git clone https://github.com/B-Boone/OpenAI_Chat_API_GUI.git`
    - If git is not installed, download and install it from [git-scm.com](https://git-scm.com/).
 
    OR
 
    **Download Source Code**:
-   - Visit `https://github.com/B-Boone/OpenAI_Chat_API`.
+   - Visit `https://github.com/B-Boone/OpenAI_Chat_API_GUI`.
    - Click on 'Code' and select 'Download ZIP'.
    - Extract the ZIP file to the desired location.
 
@@ -40,13 +40,13 @@ This Python application, `API_GUI_Chat.py`, provides a graphical user interface 
 
    **Clone the repository**:
    - Open a terminal and navigate to the desired directory.
-   - Run `git clone https://github.com/B-Boone/OpenAI_Chat_API.git`
+   - Run `git clone https://github.com/B-Boone/OpenAI_Chat_API_GUI.git`
    - If git is not installed, install it using your distribution's package manager.
 
    OR
 
    **Download Source Code**:
-   - Visit `https://github.com/B-Boone/OpenAI_Chat_API`.
+   - Visit `https://github.com/B-Boone/OpenAI_Chat_API_GUI`.
    - Click on 'Code' and select 'Download ZIP'.
    - Use `unzip <file_name>.zip` in the terminal to extract files.
 
